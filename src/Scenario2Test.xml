@@ -1,0 +1,18 @@
+<suite name="SaturdayPro">
+    <test name="Test">
+        <parameter name="browser" value="chrome"></parameter>
+
+        <classes>
+            <class name="WebSiteC.Scenario2"></class>
+        </classes>
+
+    </test>
+
+
+
+
+
+
+
+
+</suite>

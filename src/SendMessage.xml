@@ -1,0 +1,17 @@
+<suite name="SaturdayProject">
+
+    <test name="WebSiteC">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="contactUsText" value="LOLOLOLOLOLOLOLOLOLOLO"></parameter>
+
+
+        <classes>
+            <class name="WebSiteC.SendMessageTest"></class>
+        </classes>
+    </test>
+
+
+
+
+
+</suite>
